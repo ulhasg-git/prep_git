@@ -1,2 +1,4 @@
 This line is added..
 added
+
+New line added
